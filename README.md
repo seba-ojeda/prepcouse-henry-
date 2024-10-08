@@ -1,2 +1,1 @@
-# prepcouse-henry-
-este es un respositorio de prueba 
+este es un proyecto es una prueba de como crear un repositorio y clonarlo desde git hub a m computadora 
